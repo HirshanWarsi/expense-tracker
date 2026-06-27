@@ -189,7 +189,7 @@ npm run dev
 
 GitHub: https://github.com/HirshanWarsi
 
-LinkedIn: *(Add your LinkedIn profile here)*
+LinkedIn: linkedin.com/in/hirshan-warsi
 
 ---
 
